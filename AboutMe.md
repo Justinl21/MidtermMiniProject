@@ -7,8 +7,6 @@ permalink: /AboutMe/
 
 My name is Justin Lombardo, I am 22 years old and I am currently a senior at Rowan University. I will be graduating this Fall with a bachelors degree in Computer Science.
 
----
-
 ## Hobbies
 
 - Video Games
@@ -16,6 +14,5 @@ My name is Justin Lombardo, I am 22 years old and I am currently a senior at Row
 - Gym
 - Hanging out with friends
 - Practicing coding skills
----
 
 Mid Term Mini project  - (Adv) Web Programming Course

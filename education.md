@@ -22,8 +22,8 @@ _May 2019 - September 2019_
 
 * Created and tracked all QA bugs in JIRA during the QA process. Ensured that all bugs and projects assigned to my individual queue were being worked on and moved through the QA process to avoid delays in conversion implementations or product development releases. 
 
-* Worked with Ranorex software to create regression automation scripts based on the current regression cases housed in a TestRail test management system.  
----
+* Worked with Ranorex software to create regression automation scripts based on the current regression cases housed in a TestRail test management system.
+
 ### Skills
 * Java 
 * C++ 
